@@ -1,0 +1,14 @@
+#!/bin/sh
+#count genes in a folder
+
+for file in `ls *.pep`
+do
+
+    echo -n $file
+    echo -n "= "
+grep ">" $file | wc -l
+
+
+
+done
+

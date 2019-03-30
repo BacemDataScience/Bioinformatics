@@ -1,0 +1,4 @@
+all scripts where done during the Bioinformatics and Genome Analyses course 2017.
+for more information check the PDF file 
+or vist this website:
+https://webext.pasteur.fr/tekaia/BCGAIPT2017/BCGAIPT2017_Prog.html
